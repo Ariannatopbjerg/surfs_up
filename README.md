@@ -13,6 +13,6 @@ In this analysis, we will be looking at temperature statistics for the months of
 ## Results
 
 ### June Temperature Statistics
-[](https://github.com/Ariannatopbjerg/surfs_up/blob/main/Resources/June_stats.PNG)
+![](https://github.com/Ariannatopbjerg/surfs_up/blob/main/Resources/June_stats.PNG)
 ### December Temperature Statistics
-[](https://github.com/Ariannatopbjerg/surfs_up/blob/main/Resources/December_stats.PNG)
+![](https://github.com/Ariannatopbjerg/surfs_up/blob/main/Resources/December_stats.PNG)
