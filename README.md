@@ -8,7 +8,7 @@ In this analysis, we will be looking at temperature statistics for the months of
 1. Create two separate queries ─ one for June and one for December, to retrieve all the temperature data.
 2. Convert the temperature data into lists for June and for December.
 3. Create two DataFrames from the above lists.
-4. Generate summary statistics for the two months using the `.describe()` method.
+4. Generate summary statistics for the months June and December temperatures.
 
 ## Results
 
