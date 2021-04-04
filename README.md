@@ -14,13 +14,19 @@ In this analysis, we will be looking at temperature statistics for the months of
 
 ### June Temperature Statistics
 ![](https://github.com/Ariannatopbjerg/surfs_up/blob/main/Resources/June_stats.PNG)
+
+minimum temp: 64 F, maximum temp: 85 F, average temp: 75 F
+
 ### December Temperature Statistics
 ![](https://github.com/Ariannatopbjerg/surfs_up/blob/main/Resources/December_stats.PNG)
 
-## Summary
-Looking at the temeprature summary statistics for the months of June and December, both have similar minimun, maximun, and average temperatures. Temperature in these months do not look like a drastic problem for this business owner to open a surf and ice cream shop. Now that we know temperature is not a problem, we should look more into precipitation in these months. This will be the main determiner for the owner to open shop and be sustainable year-round. Here you will see the precipitation statitstics for those months:
+minimum temp: 56 F, maximum temp: 83 F, average temp: 71 F
 
-![](https://github.com/Ariannatopbjerg/surfs_up/blob/main/Resources/June_prcp.PNG)                                                
+## Summary
+Temperature in these months do not look like a drastic problem for this business owner since the average temperatures for these month ranges in the 70s. Now that we know temperature is not a problem, we should look more into precipitation in these months. This will be the main determiner for the owner to open shop and be sustainable year-round. Here you will see the precipitation statitstics for those months:
+
+![](https://github.com/Ariannatopbjerg/surfs_up/blob/main/Resources/June_prcp.PNG)
+
 
 ![](https://github.com/Ariannatopbjerg/surfs_up/blob/main/Resources/December_prcp.PNG)
 
